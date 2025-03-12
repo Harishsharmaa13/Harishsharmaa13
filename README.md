@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center"> Hi 👋, I'm Harish Chander</h1>
+<h3 align="center">Data Analyst | Excel | SQL | Python | Power BI | Tableau | Passionate about EDA & Data Visualization</h3>
 
-<!--
-**Harishsharmaa13/Harishsharmaa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</p>
 
-Here are some ideas to get you started:
+### 🚀 **Languages & Tools:**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 **GitHub Stats:**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harishsharmaa13&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harishsharmaa13&theme=radical" width="400"/>
+</p>
+
+📫 **Reach me at:**  
+- 📩 [Email](mailto:your.email@example.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/harishsharmaa13)  
+- 🌐 [GitHub](https://github.com/Harishsharmaa13)  
