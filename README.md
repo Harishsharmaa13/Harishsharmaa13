@@ -12,8 +12,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Tableau_Logo.png" alt="Tableau" width="80" height="40"/>  
-  <img src="https://download.logo.wine/logo/Microsoft_Power_BI/Microsoft_Power_BI-Logo.wine.png" alt="Power BI" width="80" height="40"/>  
-</p>
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Power BI" width="80" height="40"/>  
+  </p>
 
 ### 📊 **GitHub Stats:**
 <p align="center">
