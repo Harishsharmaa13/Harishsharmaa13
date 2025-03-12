@@ -5,16 +5,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </p>
 
-### 🚀 **Languages & Tools:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/tableau.png" alt="Tableau" width="80" height="40"/>
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Power BI" width="80" height="40"/>  
-  </p>
-
 ### 📊 **GitHub Stats:**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harishsharmaa13&show_icons=true&theme=radical" width="400"/>
